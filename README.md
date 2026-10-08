@@ -22,9 +22,12 @@ I build applied AI systems and analytics dashboards that non-technical teams act
 - Drone-Based Leaf Disease Detection for Precision Agriculture — IEEE ICOSEC 2021. DOI: 10.1109/ICOSEC51865.2021.9591837
 - AI-Enabled Smart City IoT with Edge Computing — IEEE ICOSEC 2021. DOI: 10.1109/ICOSEC51865.2021.9591732
 
-## Pinned projects — add these to GitHub
-1. **Employee Churn Prediction Dashboard** — 92% accuracy; Streamlit dashboard with real-time HR insights and visual analytics
-2. **Twitter Sentiment Analysis for Emotion Classification** — 89%+ accuracy with Logistic Regression / Naive Bayes; TF-IDF preprocessing; Flask REST API
+## Projects
+1. **Sai-Divya-Adapa-Portfolio — personal portfolio website**
+2. **Financial-Fraud-Detection — fraud detection with machine learning** (Jupyter Notebook)
+3. **DIABETES-PREDICTION — predict the likelihood of diabetes** (Jupyter Notebook)
+4.  **Emotion-based-music-recommendation-system** — real-time personalized song suggestions by analyzing users' emotions (forked)
+
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/adapadivyasai31/
