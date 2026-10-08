@@ -29,10 +29,10 @@ I build applied AI systems and analytics dashboards that non-technical teams act
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/adapadivyasai31/
 - Email: adapasaidivya99@gmail.com
-- Location: Denton, TX — open to relocate anywhere in US, open to remote/hybrid
+- Location: Denton, TX — open to relocate anywhere in US, open to remote/hybrid/ onsite.
 
 ---
-*Currently targeting full-time AI/ML and Analyst roles — W2 only — let's connect!*
+*Currently targeting full-time and W2 AI/ML and Analyst roles — let's connect!*
 
 ---
 
