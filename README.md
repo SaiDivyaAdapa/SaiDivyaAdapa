@@ -26,7 +26,7 @@ I build applied AI systems and analytics dashboards that non-technical teams act
 1. **Sai-Divya-Adapa-Portfolio — personal portfolio website**
 2. **Financial-Fraud-Detection — fraud detection with machine learning** (Jupyter Notebook)
 3. **DIABETES-PREDICTION — predict the likelihood of diabetes** (Jupyter Notebook)
-4.  **Emotion-based-music-recommendation-system** — real-time personalized song suggestions by analyzing users' emotions (forked)
+4.  **Emotion-based-music-recommendation-system — real-time personalized song suggestions by analyzing users' emotions** (forked)
 
 
 ## Contact
